@@ -82,14 +82,16 @@
 
 ## 🛠️ 기술 스택
 
-- **Engine**: Unity, UnrealEngine4/5  
+- **Engine**: Unity, UnrealEngine 4/5
 - **Language**: C#, C++  
 - **Tooling**: Visual Studio, Rider, Git, Trello, Swit, Slack, Confluence, Miro  
 - **Graphics & Animation**: Aseprite  
 - **Backend / Infra**: Firebase, Google Play Console, Addressables, Amazon S3, Photon, PlayFab  
 - **기능 구현 경험**:
   - AI FSM / BT 시스템, 오브젝트 풀링, ScriptableObject 기반 데이터 설계
-  - 저장/불러오기 시스템, 외부 API 연동, Google IAP
+  - 저장/불러오기 시스템, Localization
+  - Firebase Database/Firestore/Analytics, PlayFab, Photon 등 외부 API 연동
+  - GPGS 로그인 및 IAP, 인앱상품 등
 
 ---
 
