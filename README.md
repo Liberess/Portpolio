@@ -1,10 +1,9 @@
 <!-- 포트폴리오용 GitHub README.md -->
-<h1 align="center">🎮 이예훈 | Unity Game Developer Portfolio</h1>
+<h1 align="center">🎮 이예훈 | Game Developer Portfolio</h1>
 <p align="center">몰입감 있는 게임 경험을 설계하고 구현하는 유니티 개발자</p>
 
 <p align="center">
   <a href="mailto:liberess20@gmail.com">📧 Email</a> |
-  <a href="https://yourportfolio.com">🌐 포트폴리오 사이트</a> |
   <a href="https://github.com/Liberess">🐙 GitHub</a>
 </p>
 
@@ -14,7 +13,6 @@
 
 - Unity 기반의 다양한 게임 프로젝트를 기획부터 출시까지 주도적으로 개발
 - 구조적이고 유지보수 가능한 코드 설계에 집중
-- Shader Graph, Addressables, Spine2D 등 다양한 기술 스택을 활용한 콘텐츠 제작 경험
 - 팀 프로젝트에서의 협업과 버전 관리 능력 보유
 
 ---
@@ -23,13 +21,13 @@
 
 | 이름 | 장르 | 플랫폼 | 주요 기술 | 링크 |
 |------|------|---------|------------|------|
-| **Colorverse** | 세미 오픈월드 퍼즐 게임 | PC (Windows) | Unreal Engine 5, C++ | [🔗 바로가기](https://github.com/Liberess/sky-defender) |
-| **ReadyOrNot** | 싱글, 멀티 슈팅 게임 | PC (Windows) | Unity, C#, Photon | [🔗 바로가기](https://github.com/Liberess/lost-dungeon) |
-| **Gooey's ClayIsland** | 어드벤처 퍼즐 게임 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/cat-cafe-tycoon) |
-| **AfterSchoolCleaning** | 청소 퍼즐 게임 | PC (Windows) | Unreal Engine 4, C++ | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
-| **Lumidia Games Virtual Reality Services** | 신경, 정형, 이식혈관외과 수술 게임 | PC (Windows) | Unity, C#, MetaQuest2(VR) | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
-| **WarmHeart** | 2D 플랫포머 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
-| **VirusBall** | 2D 플랫포머 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
+| **Colorverse** | 세미 오픈월드 퍼즐 게임 | PC (Windows) | Unreal Engine 5, C++ | [🔗 바로가기](https://github.com/Liberess/Portpolio/tree/main/Colorverse) |
+| **ReadyOrNot** | 싱글, 멀티 슈팅 게임 | PC (Windows) | Unity, C#, Photon | [🔗 바로가기](https://github.com/Liberess/Portpolio/tree/main/ReadyOrNot) |
+| **Gooey's ClayIsland** | 어드벤처 퍼즐 게임 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/Portpolio/tree/main/Gooey's%20ClayIsland) |
+| **AfterSchoolCleaning** | 청소 퍼즐 게임 | PC (Windows) | Unreal Engine 4, C++ | [🔗 바로가기](https://github.com/Liberess/Portpolio/tree/main/AfterSchoolCleaning) |
+| **Lumidia Games Virtual Reality Services** | 신경, 정형, 이식혈관외과 수술 게임 | PC (Windows) | Unity, C#, MetaQuest2(VR) | [🔗 바로가기](https://github.com/Liberess/Portpolio/tree/main/Lumidia%20Games%20Virtual%20Reality%20Services) |
+| **WarmHeart** | 2D 플랫포머 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/Portpolio/tree/main/WarmHeart) |
+| **VirusBall** | 2D 플랫포머 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/Portpolio/tree/main/VirusBall) |
 
 ---
 
