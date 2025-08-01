@@ -1,14 +1,21 @@
 <!-- 포트폴리오용 GitHub README.md -->
-<p align="center">
-  <img src="https://your-image-url.com/banner.png" width="100%" alt="Portfolio Banner"/>
-</p>
-
-<h1 align="center">🎮 Game Portfolio</h1>
-<p align="center">개발한 게임 프로젝트 모음입니다.</p>
+<h1 align="center">🎮 이예훈 | Unity Game Developer Portfolio</h1>
+<p align="center">몰입감 있는 게임 경험을 설계하고 구현하는 유니티 개발자</p>
 
 <p align="center">
   <a href="mailto:liberess20@gmail.com">📧 Email</a> |
+  <a href="https://yourportfolio.com">🌐 포트폴리오 사이트</a> |
+  <a href="https://github.com/Liberess">🐙 GitHub</a>
 </p>
+
+---
+
+## 🧩 About Me
+
+- Unity 기반의 다양한 게임 프로젝트를 기획부터 출시까지 주도적으로 개발
+- 구조적이고 유지보수 가능한 코드 설계에 집중
+- Shader Graph, Addressables, Spine2D 등 다양한 기술 스택을 활용한 콘텐츠 제작 경험
+- 팀 프로젝트에서의 협업과 버전 관리 능력 보유
 
 ---
 
@@ -16,25 +23,27 @@
 
 | 이름 | 장르 | 플랫폼 | 주요 기술 | 링크 |
 |------|------|---------|------------|------|
-| **Sky Defender** | 슈팅 | PC (Windows) | Unity, C#, ScriptableObject | [🔗 바로가기](https://github.com/yourname/sky-defender) |
-| **Lost Dungeon** | 로그라이크 액션 | PC (Windows) | Unity, DOTS, Shader Graph | [🔗 바로가기](https://github.com/yourname/lost-dungeon) |
-| **Cat Café Tycoon** | 경영 시뮬레이션 | 모바일 (Android) | Unity, Addressables, Firebase | [🔗 바로가기](https://github.com/yourname/cat-cafe-tycoon) |
-| **Pixel Runner** | 2D 러너 | PC / 웹 | Unity, Cinemachine, Spine2D | [🔗 바로가기](https://github.com/yourname/pixel-runner) |
+| **Colorverse** | 세미 오픈월드 퍼즐 게임 | PC (Windows) | Unreal Engine 5, C++ | [🔗 바로가기](https://github.com/Liberess/sky-defender) |
+| **ReadyOrNot** | 싱글, 멀티 슈팅 게임 | PC (Windows) | Unity, C#, Photon | [🔗 바로가기](https://github.com/Liberess/lost-dungeon) |
+| **Gooey's ClayIsland** | 어드벤처 퍼즐 게임 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/cat-cafe-tycoon) |
+| **AfterSchoolCleaning** | 청소 퍼즐 게임 | PC (Windows) | Unreal Engine 4, C++ | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
+| **Lumidia Games Virtual Reality Services** | 신경, 정형, 이식혈관외과 수술 게임 | PC (Windows) | Unity, C#, MetaQuest2(VR) | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
+| **WarmHeart** | 2D 플랫포머 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
+| **VirusBall** | 2D 플랫포머 | PC (Windows) | Unity, C# | [🔗 바로가기](https://github.com/Liberess/pixel-runner) |
 
 ---
 
 ## 🛠️ 기술 스택
 
-- **Game Engine**: Unity (URP, HDRP, Built-in)
-- **Language**: C#
-- **Tools**: Visual Studio, Rider, Git, Plastic SCM
-- **Asset Tools**: Spine2D, Photoshop, Aseprite
-- **기능 경험**:
-  - 플레이어/적 AI (FSM, BT)
-  - Save/Load System
-  - 오브젝트 풀링, ScriptableObject 데이터 설계
-  - Addressables & Remote Config
-  - Shader Graph, Post Processing
+- **Engine**: Unity, UnrealEngine4/5
+- **Language**: C#, C++
+- **Tooling**: Visual Studio, JetBrains Rider, Git, Terllo, Swit, Slack, Confluence, Miro
+- **Graphics & Animation**: Aseprite
+- **Backend / Infra**: Firebase, Google Play Console, Addressables, Amazon S3, Photon, PlayFab
+- **기능 구현 경험**:
+  - AI FSM / BT 시스템, 오브젝트 풀링, ScriptableObject 기반 데이터 설계
+  - 저장/불러오기 시스템, 외부 API 연동, Google IAP
+  - Unity Mobile 딥링크, NFT 연동 (Solana)
 
 ---
 
@@ -53,24 +62,5 @@
 <p align="center">
   <img src="https://your-image-url.com/skydefender.gif" width="600" alt="Sky Defender Gameplay"/>
 </p>
-
----
-
-## 📁 프로젝트별 저장소
-
-> 모든 프로젝트는 개별 저장소로 관리되며, 자세한 설명과 실행 방법은 각 `README.md`에 포함되어 있습니다.
-
-- [Sky Defender](https://github.com/yourname/sky-defender)
-- [Lost Dungeon](https://github.com/yourname/lost-dungeon)
-- [Cat Café Tycoon](https://github.com/yourname/cat-cafe-tycoon)
-- [Pixel Runner](https://github.com/yourname/pixel-runner)
-
----
-
-## 📮 연락처
-
-- **Email**: your.email@example.com  
-- **포트폴리오 웹사이트**: [https://yourportfolio.com](https://yourportfolio.com)  
-- **LinkedIn**: [https://linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 
 ---
