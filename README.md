@@ -1,11 +1,17 @@
-<!-- 포트폴리오용 GitHub README.md -->
+<img width="462" height="260" alt="image" src="https://github.com/user-attachments/assets/8fad19a9-bcdd-4908-9c93-ff8c5548ef32" /><!-- 포트폴리오용 GitHub README.md -->
 <h1 align="center">🎮 이예훈 | Game Developer Portfolio</h1>
-<p align="center">몰입감 있는 게임 경험을 설계하고 구현하는 유니티 개발자</p>
+<p align="center">몰입감 있는 경험을 설계하고 구현하는 게임개발자</p>
 
 <p align="center">
   <a href="mailto:liberess20@gmail.com">📧 Email</a> |
   <a href="https://github.com/Liberess">🐙 GitHub</a>
 </p>
+
+---
+
+## 📮 Contact
+
+- **Email**: liberess20@gmail.com
 
 ---
 
@@ -58,7 +64,7 @@
 아래는 일부 프로젝트의 플레이 장면입니다.
 
 <p align="center">
-  <img src="https://your-image-url.com/skydefender.gif" width="600" alt="Sky Defender Gameplay"/>
+ <img width="462" height="260" alt="Image" src="https://github.com/user-attachments/assets/6d09ac8d-363b-4aae-ae98-a886a9f2a3c4" />
 </p>
 
 ---
