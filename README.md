@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <strong>ReadyOrNot</strong><br/>
-      <img src="https://github.com/user-attachments/assets/6d09ac8d-363b-4aae-ae98-a886a9f2a3c4" width="200"/><br/>
+      <img width="461" height="256" alt="Image" src="https://github.com/user-attachments/assets/ce2ec959-5bea-4969-9dbf-619fe018fded" />
       싱글/멀티 슈팅 게임<br/>
       <em>Unity, C#, Photon</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/ReadyOrNot">🔗 바로가기</a>
