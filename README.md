@@ -24,21 +24,21 @@
   <tr>
     <td align="center">
       <strong>Colorverse</strong><br/><br/>
-      <img src="https://github.com/user-attachments/assets/8fad19a9-bcdd-4908-9c93-ff8c5548ef32" width="200"/><br/>
+      <img src="https://github.com/user-attachments/assets/8fad19a9-bcdd-4908-9c93-ff8c5548ef32" width="720" height="400"/><br/>
       세미 오픈월드 퍼즐 게임<br/>
       <em>Unreal Engine 5, C++</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/Colorverse">🔗 바로가기</a>
     </td>
     <td align="center">
       <strong>ReadyOrNot</strong><br/><br/>
-      <img width="461" height="256" alt="Image" src="https://github.com/user-attachments/assets/ce2ec959-5bea-4969-9dbf-619fe018fded"/><br/>
+      <img width="720" height="400" alt="Image" src="https://github.com/user-attachments/assets/ce2ec959-5bea-4969-9dbf-619fe018fded"/><br/>
       싱글/멀티 슈팅 게임<br/>
       <em>Unity, C#, Photon</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/ReadyOrNot">🔗 바로가기</a>
     </td>
     <td align="center">
       <strong>Gooey's ClayIsland</strong><br/><br/>
-      <img width="726" height="408" alt="Image" src="https://github.com/user-attachments/assets/c35e40d1-8566-43c0-94cb-f69ce874f110" /><br/>
+      <img width="720" height="400" alt="Image" src="https://github.com/user-attachments/assets/c35e40d1-8566-43c0-94cb-f69ce874f110" /><br/>
       어드벤처 퍼즐 게임<br/>
       <em>Unity, C#</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/Gooey's%20ClayIsland">🔗 바로가기</a>
@@ -47,21 +47,21 @@
   <tr>
     <td align="center">
       <strong>AfterSchoolCleaning</strong><br/><br/>
-      <img width="657" height="409" alt="Image" src="https://github.com/user-attachments/assets/8c356470-8510-4198-88ba-6334d2a42870" /><br/>
+      <img width="720" height="400" alt="Image" src="https://github.com/user-attachments/assets/8c356470-8510-4198-88ba-6334d2a42870" /><br/>
       청소 퍼즐 게임<br/>
       <em>Unreal Engine 4, C++</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/AfterSchoolCleaning">🔗 바로가기</a>
     </td>
     <td align="center">
       <strong>Lumidia VR Services</strong><br/><br/>
-      <img width="670" height="374" alt="Image" src="https://github.com/user-attachments/assets/e8df365c-507a-49c9-b914-1db2f33b696c" /><br/>
+      <img width="720" height="400" alt="Image" src="https://github.com/user-attachments/assets/e8df365c-507a-49c9-b914-1db2f33b696c" /><br/>
       수술 시뮬레이션 VR 게임<br/>
       <em>Unity, C#, MetaQuest2</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/Lumidia%20Games%20Virtual%20Reality%20Services">🔗 바로가기</a>
     </td>
     <td align="center">
       <strong>WarmHeart</strong><br/><br/>
-      <img width="737" height="409" alt="Image" src="https://github.com/user-attachments/assets/a7b3e82b-eb04-4016-8d5a-3b6433cceef8" /><br/>
+      <img width="720" height="400" alt="Image" src="https://github.com/user-attachments/assets/a7b3e82b-eb04-4016-8d5a-3b6433cceef8" /><br/>
       2D 플랫포머<br/>
       <em>Unity, C#</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/WarmHeart">🔗 바로가기</a>
@@ -70,7 +70,7 @@
   <tr>
     <td align="center">
       <strong>VirusBall</strong><br/><br/>
-      <img width="726" height="409" alt="Image" src="https://github.com/user-attachments/assets/2f231125-4396-4e35-bdbe-90cd8ae9c22c" /><br/>
+      <img width="720" height="400" alt="Image" src="https://github.com/user-attachments/assets/2f231125-4396-4e35-bdbe-90cd8ae9c22c" /><br/>
       2D 플랫포머<br/>
       <em>Unity, C#</em><br/>
       <a href="https://github.com/Liberess/Portpolio/tree/main/VirusBall">🔗 바로가기</a>
