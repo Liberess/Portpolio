@@ -41,7 +41,8 @@
       <img width="720" height="400" alt="Image" src="https://github.com/user-attachments/assets/c35e40d1-8566-43c0-94cb-f69ce874f110" /><br/>
       어드벤처 퍼즐 게임<br/>
       <em>Unity, C#</em><br/>
-      <a href="https://github.com/Liberess/Portpolio/tree/main/Gooey's%20ClayIsland">🔗 바로가기</a>
+      <a href="https://github.com/Liberess/Portpolio/tree/main/Gooey's%20ClayIsland">🔗 깃허브</a>
+      <a href="https://drive.google.com/file/d/1bQBbuiW4VFS26h88HxWenmUo5mQT-iU0/view">🔗 영상</a>
     </td>
   </tr>
   <tr>
