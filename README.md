@@ -23,6 +23,22 @@
 <table>
   <tr>
     <td align="center">
+      <strong>WaterBalloon</strong><br/><br/>
+      온라인 멀티플레이 장애물 레이스 게임<br/>
+      <em>Unity, C#, Photon Fusion</em><br/>
+      Steam–STOVE 크로스플레이 · 커뮤니티 맵 에디터<br/>
+      <a href="https://github.com/Liberess/Portpolio/tree/main/WaterBalloon">🔗 바로가기</a>
+    </td>
+    <td align="center">
+      <strong>WallBreaker</strong><br/><br/>
+      모바일 방치형 클리커 성장 게임<br/>
+      <em>Unity, C#, PlayFab, Firebase</em><br/>
+      성장 시스템 · 인앱 결제 · 보상형 광고<br/>
+      <a href="https://github.com/Liberess/Portpolio/tree/main/WallBreaker">🔗 바로가기</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <strong>Colorverse</strong><br/><br/>
       <img src="https://github.com/user-attachments/assets/8fad19a9-bcdd-4908-9c93-ff8c5548ef32" width="720" height="400"/><br/>
       세미 오픈월드 퍼즐 게임<br/>
