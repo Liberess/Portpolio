@@ -24,6 +24,7 @@
   <tr>
     <td align="center">
       <strong>WaterBalloon</strong><br/><br/>
+      <img src="WaterBalloon/Images/screenshot.png" alt="WaterBalloon 캐릭터 커스터마이징 화면" height="300"/><br/>
       온라인 멀티플레이 장애물 레이스 게임<br/>
       <em>Unity, C#, Photon Fusion</em><br/>
       Steam–STOVE 크로스플레이 · 커뮤니티 맵 에디터<br/>
@@ -31,6 +32,7 @@
     </td>
     <td align="center">
       <strong>WallBreaker</strong><br/><br/>
+      <img src="WallBreaker/Images/screenshot.png" alt="WallBreaker 인게임 플레이 화면" height="300"/><br/>
       모바일 방치형 클리커 성장 게임<br/>
       <em>Unity, C#, PlayFab, Firebase</em><br/>
       성장 시스템 · 인앱 결제 · 보상형 광고<br/>

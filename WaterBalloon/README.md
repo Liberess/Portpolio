@@ -2,6 +2,10 @@
 
 > Unity와 Photon Fusion 기반의 온라인 멀티플레이 장애물 레이스 게임
 
+<p align="center">
+  <img src="Images/screenshot.png" alt="WaterBalloon 게임 화면" width="800" />
+</p>
+
 ## 프로젝트 개요
 
 | 항목 | 내용 |

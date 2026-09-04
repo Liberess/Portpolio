@@ -2,6 +2,10 @@
 
 > 벽을 부수고 성장하는 Unity 기반 모바일 방치형 클리커 게임
 
+<p align="center">
+  <img src="Images/screenshot.png" alt="WallBreaker 게임 화면" width="360" />
+</p>
+
 ## 프로젝트 개요
 
 | 항목 | 내용 |
